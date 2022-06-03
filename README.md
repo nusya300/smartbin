@@ -2,7 +2,7 @@
 
 # Smart Trash Bin Project
 
-Smart trash bin helps to solve the problems related to the garbage management. This project aims at developing the affordable smart trash bin using Arduino Uno, Servomotor, Ultrasonic sensor HC-SR04. The concept is very simple and easy to use.
+Smart trash bin helps to solve the problems related to the garbage management. This project aims at developing the affordable smart trash bin using Arduino Nano, Servomotor, Ultrasonic sensor HC-SR04. The concept is very simple and easy to use.
 
 <img src="https://github.com/GalliFrey7/smart_trash_bin/blob/main/FEE55EB5-C090-4392-B99D-390DDC45A18B.jpeg" width="600" alt="arduino_schematic"/>
 
